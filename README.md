@@ -1,5 +1,5 @@
 # Error Level Analysis Report Creator
 Automate ELA reports
-- [ ] Continuity
-- [ ] Authenticity
+- [X] Continuity
+- [X] Authenticity
 - [ ] GUI
