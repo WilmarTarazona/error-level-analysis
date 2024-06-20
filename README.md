@@ -2,3 +2,4 @@
 Automate ELA reports
 - [ ] Continuity
 - [ ] Authenticity
+- [ ] GUI
